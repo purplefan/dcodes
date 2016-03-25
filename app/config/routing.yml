@@ -1,3 +1,2 @@
-app:
-    resource: "@AppBundle/Controller/"
-    type:     annotation
+god_codes:
+    resource: "@GODCodesBundle/Resources/config/routing.yml"
